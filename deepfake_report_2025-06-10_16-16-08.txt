@@ -1,0 +1,6 @@
+Deepfake Detection Report
+Date: 2025-06-10_16-16-08
+
+Final Verdict: 🟩 Real Audio Real Video
+Video Score: 0.2715
+Audio Score: 0.2821
